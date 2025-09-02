@@ -1,1 +1,1 @@
-# -Reto-VLM3D---T-picos-en-Geometr-a-y-Visualizaci-n-M-dica
+# Después hago README
