@@ -25,25 +25,16 @@ El reto se fundamenta en el **conjunto de datos abierto CT-RATE**, que reúne m�
 
 ```
 Reto-VLM3D-UNALMED/
-├── datos/                     # Carpeta para scripts de acceso a datos (⚠️ no subir dataset aquí)
+├── datos/                     # Carpeta para scripts de acceso a datos
 │   └── README.md              # Instrucciones para obtener el dataset desde Hugging Face / Zenodo
 │
 ├── src/                       # Código fuente del proyecto
 │   ├── __init__.py
 │   ├── entrenamiento.py       # Script de entrenamiento de modelos
-│   ├── preprocesamiento.py    # Script de preprocesamiento de volúmenes CT
-│   ├── evaluacion.py          # Script de evaluación de resultados
 │   └── utils.py               # Funciones auxiliares
 │
-├── tests/                     # Carpeta para pruebas unitarias
-│   ├── __init__.py
-│   └── test_preprocesamiento.py
-│
 ├── notebooks/                 # Jupyter notebooks de experimentación
-│   └── exploracion_datos.ipynb
-│
-├── resultados/                # Carpeta para guardar resultados de entrenamiento, métricas, figuras
-│   └── .gitkeep
+│   └── enfermedades.ipynb
 │
 ├── .git/                      # Carpeta interna de Git
 ├── .gitignore                 # Reglas para ignorar archivos (ej: venv, datos grandes, etc.)
@@ -56,8 +47,7 @@ Reto-VLM3D-UNALMED/
 
 ### Requisitos
 - Python 3.10+  
-- Claves de API para Google Gemini (almacenadas en variables de entorno).
-- Carpeta archivos médicos en formato DICOM
+- Carpeta datos/ subidos según el README.md mostrado en la misma
 ### Pasos para la instalación
 ```bash
 # Clonar repositorio
@@ -73,14 +63,6 @@ source venv/bin/activate  # Linux/Mac
 
 # Instalar dependencias
 pip install -r requirements.txt
-
-# Configurar variables de entorno (crear archivo .env)
-# En la misma carpeta de app.py
-echo "GOOGLE_API_KEY=tu_clave_gemini" >> .env
-echo "DICOM_FOLDER_PATH=direccion_de_la_carpeta_de_dicoms" >> .env
-
-#Activar streamlit
-streamlit run desarrollo\app.py
 
 #Para desactivar entorno
 deactivate
