@@ -57,7 +57,7 @@ git clone https://github.com/JeroHoyos/Reto-VLM3D-UNALMED
 cd Agent_IA_Doctor_Banach/desarrollo
 
 # Crear entorno virtual (Python)
-python -m venv .venv
+py -m venv .venv
 source venv/bin/activate  # Linux/Mac
 .venv\Scripts\activate    # Windows
 
