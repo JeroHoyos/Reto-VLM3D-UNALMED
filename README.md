@@ -36,8 +36,7 @@ Reto-VLM3D-UNALMED/
 ├── notebooks/                 # Jupyter notebooks de experimentación
 │   └── enfermedades.ipynb
 │
-├── .git/                      # Carpeta interna de Git
-├── .gitignore                 # Reglas para ignorar archivos (ej: venv, datos grandes, etc.)
+├── .gitignore                 
 ├── LICENSE                    # Licencia MIT del código
 └── README.md                  # Documentación principal del proyecto
 
