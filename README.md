@@ -4,7 +4,7 @@
 **Participantes:**  
 - Jerónimo Hoyos Botero  
 - Andrés Esteban Montoya Suárez  
-
+- Jose Miguel García Vélez
 ---
 
 ## Introducción
