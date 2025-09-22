@@ -52,8 +52,8 @@ Reto-VLM3D-UNALMED/
 # Clonar repositorio
 git clone https://github.com/JeroHoyos/Reto-VLM3D-UNALMED
 
-# Entrar al directorio del Desarrollo
-cd Agent_IA_Doctor_Banach/desarrollo
+# Entrar al directorio del notebooks
+cd Reto-VLM3D-UNALMED/notebooks
 
 # Crear entorno virtual (Python)
 py -m venv .venv
@@ -66,7 +66,6 @@ pip install -r requirements.txt
 #Para desactivar entorno
 deactivate
 ```
-
 
 ## Recursos
 

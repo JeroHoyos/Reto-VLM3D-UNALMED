@@ -16,6 +16,10 @@ Una vez aprobado el acceso, coloque aquí los volúmenes o cree enlaces simbóli
 datos/
 ├── README.md 
 ├── labels/     
-│   ├── no_chest_train.txt               
+│   ├── no_chest_train.txt       
+│   ├── Metadata_Attributes.xlsx  
+│   ├── train_label_summary.xlsx 
+│   ├── train_metadata.csv
+│   ├── train_reports.csv
 │   └── train_predicted_labels.csv
 ```
