@@ -35,6 +35,7 @@ Reto-VLM3D-UNALMED/
 │
 ├── notebooks/                 # Jupyter notebooks de experimentación
 │   └── enfermedades.ipynb
+|   ├── otros_labels.ipynb
 │
 ├── .gitignore                 
 ├── LICENSE                    # Licencia MIT del código
