@@ -29,9 +29,6 @@ Reto-VLM3D-UNALMED/
 │   └── README.md              # Instrucciones para obtener el dataset desde Hugging Face / Zenodo
 │
 ├── src/                       # Código fuente del proyecto
-│   ├── __init__.py
-│   ├── entrenamiento.py       # Script de entrenamiento de modelos
-│   └── utils.py               # Funciones auxiliares
 │
 ├── notebooks/                 # Jupyter notebooks de experimentación
 │   └── enfermedades.ipynb

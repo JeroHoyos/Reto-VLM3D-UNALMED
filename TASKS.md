@@ -18,5 +18,14 @@
 | leer libro Deeplearning | ⬜ Pendiente| Todos   |  https://www.deeplearningbook.org/|
 | GIF 100 datos seleccionados | ⬜ Pendiente  | Andrés y Miguel | Hacer varios gif donde se muestren todos los cortes
 | Presentación avances | ⬜ Pendiente | Jerónimo | 
-| Documento sobre Proyecto | ⬜ Pendiente | Jerónimo |
-| Cronograma actividades | ⬜ Pendiente | Miguel | Decir cómo planeamos organizarnos, por ejemplo leer el libro desde X fecha hasta Y fecha
+| Documento sobre Proyecto | 🟨 En progreso   | Jerónimo |
+| Cronograma actividades | ⬜ Pendiente | Miguel | Decir cómo planeamos organizarnos, por ejemplo leer el libro desde X fecha hasta Y fecha. en una tabla de excel podría ser
+Repetir análisis otro labels y creación informe | ⬜ Pendiente | Miguel  | Dentro del [documento](https://es.overleaf.com/5494426841zppytyppcbjy#996093) agregar el informe de todos los labels y volver a realizar el análisis de los otros labels enfocado a la información importante, dentro del documento está la explicación de cada label. En caso de dificultad con LATEX crearlo en word.
+Creación Streamlit | ⬜ Pendiente | Jerónimo y Andrés |Crear un streamlit preliminar donde se pueda cargar los datasets y poder visualizar cada corte.
+Script descarga todos los archivos |⬜ Pendiente |Andrés|Creación de un script que descargue los labels y los datasets de forma automatica para mejora de calidad de vida para todos.
+Estado del arte sobre los nódulos desde una perspectiva del deep learning | ⬜ Pendiente |Jerónimo |
+Revisión sobre MONAI | ⬜ Pendiente| Andrés| Quiero que revises bien qué opciones interesantes tiene MONAI
+
+
+
+
