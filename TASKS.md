@@ -15,7 +15,7 @@
 | Script descarga datos automatica | ⬜ Pendiente | Andrés       |                            |
 | Análisis otros labels        | ✅ Completado | Miguel      |     Metadata_Attributes.xlsx,train_label_summary.xlsx,train_metadata.csv y train_reports.csv    |
 | Selección 100 datos    | ✅ Completado | Andrés        |               |
-| leer libro Deeplearning | ⬜ Pendiente| Todos   |  [Libro](https://www.deeplearningbook.org/),Capitulos: Cap. 2. Álgebra lineal, Cap. 3. Probabilidad e información, Cap. 4. Cómputo numérico, Cap. 5. Fundamentos de machine learning, Cap. 6. Redes feed-forward profundas, Cap. 7. Regularización, Cap. 8. Optimización para entrenamiento, Cap. 9. Redes convolucionales, Cap. 10. Modelado de secuencias, Cap. 11. Metodología práctica, Cap. 12. Aplicaciones, Cap. 14. Autoencoders, Cap. 15. Representation Learning.|
+| leer libro Deeplearning | ⬜ Pendiente| Todos   |  Se va leer este [Libro](https://www.deeplearningbook.org/) y estos capitulos: Cap. 2. Álgebra lineal, Cap. 3. Probabilidad e información, Cap. 4. Cómputo numérico, Cap. 5. Fundamentos de machine learning, Cap. 6. Redes feed-forward profundas, Cap. 7. Regularización, Cap. 8. Optimización para entrenamiento, Cap. 9. Redes convolucionales, Cap. 10. Modelado de secuencias, Cap. 11. Metodología práctica, Cap. 12. Aplicaciones, Cap. 14. Autoencoders, Cap. 15. Representation Learning.|
 | GIF 100 datos seleccionados | ⬜ Pendiente  | Andrés y Miguel | Hacer varios gif donde se muestren todos los cortes
 | Presentación avances | ⬜ Pendiente | Jerónimo | 
 | Documento sobre Proyecto | 🟨 En progreso   | Jerónimo |
